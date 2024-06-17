@@ -4,3 +4,5 @@ Flask
 seaborn
 matplotlib
 scikit-learn
+imbalanced-learn
+xgboost
